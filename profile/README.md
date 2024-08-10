@@ -6,7 +6,7 @@
 - Meesam
 
 ### Problem Statement
-This project is based on SFHS CODE HACK's Subtheme #4 - Smart Cities Security and Resilient Urban Infrastructure. <br><br>
+This project is based on SFHS CODE HACK’s Subtheme #4 - **Smart Cities Security and Resilient Urban Infrastructure.** <br><br>
 Focusing more on the latter - Resilient Urban Infrastructure - with rapid development of "Smart Cities" these days, such as our own "SRINAGAR SMART CITY" in Kashmir, this unprecedented growth rate makes it challenging to easily monitor the exponentially growing number of smart infrastructure projects at a glance.
 
 ### Proposed Solution
@@ -20,6 +20,9 @@ SmartCity EnergyDashT? is a web-based dashboard designed to provide real-time in
 - Infrastructure maintenance teams
 ### Technology Stack:
 - Frontend: HTML, CSS, JS
-- Backend: NodeJS, OpenAI, 
+- Backend: NodeJS, Amazon Web Services, MongoDB, OpenAI GPT-4o-mini
+ 
 ### Pitch
-SmartCity EnergyDashT? empowers municipalities to monitor their smart infrastructure at a glance, and enables them to pinpoint anomalies and fix them faster. With real-time monitoring and anomaly detection, our platform helps optimize energy consumption, improve asset management, and enhance overall city resilience.
+SmartCity EnergyDash™️ empowers municipalities to monitor their smart infrastructure at a glance, and enables them to pinpoint anomalies and fix them faster. With real-time monitoring and anomaly detection, our platform helps optimize energy consumption, improve asset management, and enhance overall city resilience.
+### Screenshots Attached
+
