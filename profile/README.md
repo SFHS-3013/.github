@@ -1,10 +1,24 @@
+
+<hr>
+
+# NOTE: This is the readme of the ORGANISATION. Our project has TWO GitHub repos. One for frontend, one for backend. Links given below. 
+## Both these repos contain the project video and PDF. 
+**Link for Frontend Repo:** https://github.com/SFHS-3013/Frontend/
+**Link for Frontend Repo:** https://github.com/SFHS-3013/Backend/
+
+### What's written below is ALSO written on the readme of both repos mentioned above. 
+
+
+
+<hr>
+
 # Project Title: SmartCity EnergyDash
 
 ## Team ID: 3013
 ## Team Members: 
 - Mohammad Hammad
 - Meesam
-
+  
 ### Problem Statement
 This project is based on SFHS CODE HACK’s Subtheme #4 - **Smart Cities Security and Resilient Urban Infrastructure.** <br><br>
 Focusing more on the latter - Resilient Urban Infrastructure - with rapid development of "Smart Cities" these days, such as our own "SRINAGAR SMART CITY" in Kashmir, this unprecedented growth rate makes it challenging to easily monitor the exponentially growing number of smart infrastructure projects at a glance.
