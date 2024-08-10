@@ -21,6 +21,7 @@ SmartCity EnergyDashT? is a web-based dashboard designed to provide real-time in
 ### Technology Stack:
 - Frontend: HTML, CSS, JS
 - Backend: NodeJS, Amazon Web Services, MongoDB, OpenAI GPT-4o-mini
+
  
 ### Pitch
 SmartCity EnergyDash™️ empowers municipalities to monitor their smart infrastructure at a glance, and enables them to pinpoint anomalies and fix them faster. With real-time monitoring and anomaly detection, our platform helps optimize energy consumption, improve asset management, and enhance overall city resilience.
@@ -34,8 +35,8 @@ The screenshot below shows **AI-powered** suggestions based on live data (displa
 **ORGANIZATION:** https://github.com/SFHS-3013 <br>
 **The above organization contains two repositories:** <br> 
 - Repository For Web UI: https://github.com/SFHS-3013/Frontend <br>
-- Repository For BackEnd: https://github.com/SFHS-3013/Backend <br>
+- Repository For BackEnd: https://github.com/SFHS-3013/Backend <br><br>
 
 Both repositories given above contain the final project video. <br>
-Additionally, a link to the video is also given below for convenience. <br>
+Additionally, a link to the video is also given below for convenience. <br><br>
 **Link to Video:**
