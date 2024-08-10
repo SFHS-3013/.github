@@ -31,11 +31,11 @@ The screenshot below shows **AI-powered** suggestions based on live data (displa
 ![image](../screenshots/screenshot3.png)
 
 ### GitHub Repositories:
-ORGANIZATION: https://github.com/SFHS-3013 <br>
-The above organization contains two repositories: <br> 
-Repository For Web UI: https://github.com/SFHS-3013/Frontend <br>
-Repository For BackEnd: https://github.com/SFHS-3013/Backend <br>
+**ORGANIZATION:** https://github.com/SFHS-3013 <br>
+**The above organization contains two repositories:** <br> 
+- Repository For Web UI: https://github.com/SFHS-3013/Frontend <br>
+- Repository For BackEnd: https://github.com/SFHS-3013/Backend <br>
 
 Both repositories given above contain the final project video. <br>
 Additionally, a link to the video is also given below for convenience. <br>
-
+**Link to Video:**
