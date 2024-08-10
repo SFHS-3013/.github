@@ -4,7 +4,8 @@
 # NOTE: This is the readme of the ORGANISATION. Our project has TWO GitHub repos. One for frontend, one for backend. Links given below. 
 ## Both these repos contain the project video and PDF. 
 **Link for Frontend Repo:** https://github.com/SFHS-3013/Frontend/
-**Link for Frontend Repo:** https://github.com/SFHS-3013/Backend/
+<br>
+**Link for Backend Repo:** https://github.com/SFHS-3013/Backend/
 
 ### What's written below is ALSO written on the readme of both repos mentioned above. 
 
