@@ -29,3 +29,13 @@ SmartCity EnergyDash™️ empowers municipalities to monitor their smart infras
 ![image](../screenshots/screenshot2.png)
 The screenshot below shows **AI-powered** suggestions based on live data (displayed once you click the AI powered suggested improvements button)
 ![image](../screenshots/screenshot3.png)
+
+### GitHub Repositories:
+ORGANIZATION: https://github.com/SFHS-3013 <br>
+The above organization contains two repositories: <br> 
+Repository For Web UI: https://github.com/SFHS-3013/Frontend <br>
+Repository For BackEnd: https://github.com/SFHS-3013/Backend <br>
+
+Both repositories given above contain the final project video. <br>
+Additionally, a link to the video is also given below for convenience. <br>
+
